@@ -21,7 +21,7 @@
   background-position: center;
   overflow: hidden;
   border-radius: 10px;
-  background-image: url(https://th.bing.com/th/id/R.68b9bc10224a7b7168d4cd0a8668e7d5?rik=dgHxQep470OO2w&pid=ImgRaw&r=0);
+  background-image: url(../src/components/assets/star-wars-background-img.jpg);
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
